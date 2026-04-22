@@ -44,6 +44,7 @@ Output is in **`dist/`**.
 ## Deploy
 
 See **[DEPLOY.md](./DEPLOY.md)** for Vercel, Netlify, Cloudflare Pages, and GitHub Pages.
+https://skyline-weather-app.vercel.app/
 
 ## Project layout
 
